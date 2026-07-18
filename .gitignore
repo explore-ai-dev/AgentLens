@@ -16,6 +16,7 @@ text/
 *.log
 dist/
 build/
+*.egg-info/
 .package-check/*.whl
 .codex_tmp/
 .firstcoder/
