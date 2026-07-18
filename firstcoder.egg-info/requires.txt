@@ -1,0 +1,12 @@
+textual
+prompt_toolkit
+openai
+anthropic
+anyio
+mcp>=1.28.1
+python-dotenv
+pydantic
+tomlkit
+
+[dev]
+pytest
