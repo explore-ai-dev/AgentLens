@@ -133,8 +133,6 @@ AgentLens's TUI is designed to expose the agent loop instead of hiding it. You c
 
 Ready state:
 
-![AgentLens ready state](docs/images/firstcoder-ready.png)
-
 Conversation flow:
 
 ![AgentLens conversation flow](docs/images/tui-empty.png)
