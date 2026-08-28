@@ -70,25 +70,25 @@ AgentLens 是一个能真实运行的本地 coding agent，带有 Textual TUI、
 推荐用 `pipx` 安装：
 
 ```sh
-pipx install firstcoder
+pipx install agentlens
 ```
 
 启动 TUI：
 
 ```sh
-firstcoder
+agentlens
 ```
 
 不打开 TUI，直接跑一轮消息：
 
 ```sh
-firstcoder --message "用一段话介绍这个仓库"
+agentlens --message "用一段话介绍这个仓库"
 ```
 
 使用行式交互模式：
 
 ```sh
-firstcoder --interactive
+agentlens --interactive
 ```
 
 ## 你会得到什么
@@ -104,9 +104,9 @@ firstcoder --interactive
 创建初始配置：
 
 ```sh
-firstcoder config init
-firstcoder config path
-firstcoder config show
+agentlens config init
+agentlens config path
+agentlens config show
 ```
 
 密钥建议放在环境变量里：

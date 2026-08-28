@@ -70,25 +70,25 @@ Detailed subsystem design lives in the docs, not in this README.
 Install with `pipx`:
 
 ```sh
-pipx install firstcoder
+pipx install agentlens
 ```
 
 Start the TUI:
 
 ```sh
-firstcoder
+agentlens
 ```
 
 Run one message without opening the TUI:
 
 ```sh
-firstcoder --message "Summarize this repository in one paragraph"
+agentlens --message "Summarize this repository in one paragraph"
 ```
 
 Use line-oriented interactive mode:
 
 ```sh
-firstcoder --interactive
+agentlens --interactive
 ```
 
 ## What You Get
@@ -104,9 +104,9 @@ firstcoder --interactive
 Create a starter config:
 
 ```sh
-firstcoder config init
-firstcoder config path
-firstcoder config show
+agentlens config init
+agentlens config path
+agentlens config show
 ```
 
 Keep secrets in environment variables:
