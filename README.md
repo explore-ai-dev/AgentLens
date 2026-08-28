@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/firstcoder-logo.png" alt="AgentLens logo" width="156">
-</p>
-
 <h1 align="center">AgentLens</h1>
 
 <p align="center">
